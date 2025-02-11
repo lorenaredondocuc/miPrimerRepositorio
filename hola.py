@@ -1,0 +1,1 @@
+print("mi primera configuracion con git")
